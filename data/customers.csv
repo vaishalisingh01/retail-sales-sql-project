@@ -1,0 +1,309 @@
+customer_id,customer_name,email,city,region,signup_date
+1,Priya Nair,,Kochi,South,2023-04-25
+2,  Neha Verma ,customer2@example.com,Kochi,South,2024-07-12
+3,Nikhil Khan,customer3@example.com,Chennai,South,2023-01-28
+4,Isha Khan,customer4@example.com,bhubaneswar,East,2023-01-07
+5,Karan Singh,customer5@example.com,Bhubaneswar,East,2023-12-11
+6,Riya Singh,customer6@example.com,Mumbai,West,2023-02-14
+7,Tanvi Das,customer7@example.com,Chennai,South,2023-10-28
+8,Aditya Nair,customer8@example.com,Delhi,North,2023-08-22
+9,Meera Iyer,customer9@example.com,Bengaluru,South,2024-01-09
+10,isha nair,customer10@example.com,Kochi,South,2023-03-15
+11,Arjun Verma,customer11@example.com,  Kochi ,South,2024-07-24
+12,Rohan Kapoor,customer12@example.com,Pune,West,2024-02-15
+13,Diya Nair,customer13@example.com,Kochi,South,2024-04-14
+14,Varun Bose,customer14@example.com,Kolkata,East,2024-08-21
+15,vivaan singh,customer15@example.com,chandigarh,North,2024-06-05
+16,Karan Bose,customer16@example.com,Kochi,South,2024-03-08
+17,Aarav Singh,customer17@example.com,Mumbai,West,2024-07-20
+18,Neha Reddy,customer18@example.com,Mumbai,West,2023-12-15
+19,Isha Singh,customer19@example.com,Kolkata,East,2023-09-27
+20,Diya Das,customer20@example.com,Kochi,South,2024-06-03
+21,Tanvi Kapoor,customer21@example.com,BHUBANESWAR,East,2024-06-27
+22,KABIR GUPTA,customer22@example.com,Pune,West,2023-11-11
+23,Diya Rao,customer23@example.com,gurugram,North,2024-06-29
+24,Riya Iyer,customer24@example.com,Chennai,South,2024-03-09
+25,SIDDHARTH MALHOTRA,customer25@example.com,Kochi,South,2024-01-18
+26,  Kabir Nair ,customer26@example.com,Pune,West,2023-01-22
+27,  Vivaan Kapoor ,customer27@example.com,Delhi,North,2023-08-23
+28,Diya Rao,customer28@example.com,Kochi,South,2024-05-12
+29,Kavya Khan,customer29@example.com,Ahmedabad,West,2023-07-14
+30,  Amit Singh ,customer30@example.com,Patna,East,2023-02-25
+31,rohan malhotra,customer31@example.com,bhubaneswar,East,2023-04-22
+32,Aditya Malhotra,customer32@example.com,Bengaluru,South,2023-09-13
+33,Riya Sharma,customer33@example.com,Gurugram,North,2023-02-21
+34,Pooja Rao,customer34@example.com,Patna,East,2023-08-31
+35,Karan Mehta,customer35@example.com,Delhi,North,2023-06-18
+36,sanya rao,customer36@example.com,Mumbai,West,2024-03-09
+37,  Vivaan Kapoor ,customer37@example.com,Delhi,North,2024-08-16
+38,Siddharth Gupta,customer38@example.com,  Chennai ,South,2024-06-27
+39,Varun Nair,customer39@example.com,  Gurugram ,North,2023-08-29
+40,Varun Kapoor,customer40@example.com,Gurugram,North,2024-03-05
+41,Karan Patel,customer41@example.com,Kolkata,East,2023-11-18
+42,  Tanvi Singh ,,Pune,West,2023-03-16
+43,Aditya Nair,customer43@example.com,mumbai,West,2023-05-16
+44,Tanvi Sharma,customer44@example.com,Patna,East,2024-07-10
+45,DIYA MEHTA,customer45@example.com,KOCHI,South,2023-04-17
+46,Tanvi Iyer,customer46@example.com,Chennai,South,2023-06-09
+47,PRIYA VERMA,customer47@example.com,Kochi,South,2023-09-28
+48,diya mehta,,Mumbai,West,2023-02-15
+49,Ananya Gupta,customer49@example.com,Kolkata,East,2024-03-13
+50,Meera Patel,,  Chandigarh ,North,2024-07-12
+51,Rohan Nair,customer51@example.com,Pune,West,2023-02-10
+52,Sanya Patel,customer52@example.com,Chennai,South,2024-02-21
+53,Aarav Reddy,customer53@example.com,Chandigarh,North,2023-07-01
+54,Nikhil Singh,customer54@example.com,  Ahmedabad ,West,2023-09-12
+55,Rahul Das,customer55@example.com,Bengaluru,South,2023-08-16
+56,Rohan Bose,,Jaipur,North,2023-08-17
+57,Siddharth Bose,customer57@example.com,Bhubaneswar,East,2023-10-13
+58,Priya Reddy,customer58@example.com,Pune,West,2023-01-29
+59,Meera Kapoor,customer59@example.com,Delhi,North,2023-04-22
+60,  Rohan Mehta ,customer60@example.com,Gurugram,North,2024-01-30
+61,Sanya Iyer,customer61@example.com,  Chennai ,South,2024-07-05
+62,Kavya Singh,customer62@example.com,Kochi,South,2023-12-05
+63,Nikhil Joshi,customer63@example.com,mumbai,West,2024-02-23
+64,Isha Joshi,customer64@example.com,Kochi,South,2024-01-24
+65,Varun Kapoor,customer65@example.com,Mumbai,West,2023-10-21
+66,Sanya Reddy,customer66@example.com,Jaipur,North,2024-06-07
+67,Kabir Joshi,customer67@example.com,kochi,South,2023-12-10
+68,Pooja Gupta,customer68@example.com,Delhi,North,2023-02-17
+69,Karan Rao,customer69@example.com,hyderabad,South,2023-07-19
+70,Ananya Khan,customer70@example.com,Kolkata,East,2023-01-06
+71,Riya Nair,customer71@example.com,KOLKATA,East,2024-06-14
+72,Riya Kapoor,customer72@example.com,Chandigarh,North,2024-04-20
+73,Riya Malhotra,customer73@example.com,Hyderabad,South,2024-05-31
+74,Kabir Mehta,customer74@example.com,Bengaluru,South,2024-04-05
+75,Aditya Joshi,customer75@example.com,Kochi,South,2023-09-02
+76,Kabir Bose,customer76@example.com,Chennai,South,2023-03-24
+77,Riya Malhotra,customer77@example.com,Gurugram,North,2024-02-29
+78,Varun Sharma,customer78@example.com,Ahmedabad,West,2024-02-03
+79,Meera Joshi,,Ahmedabad,West,2024-05-03
+80,Sanya Nair,customer80@example.com,Patna,East,2024-03-05
+81,Kavya Bose,customer81@example.com,Bengaluru,South,2023-01-30
+82,KARAN SHARMA,,Chandigarh,North,2024-06-30
+83,Priya Bose,customer83@example.com,Patna,East,2024-04-17
+84,Neha Mehta,customer84@example.com,Pune,West,2024-01-24
+85,Meera Nair,customer85@example.com,Kolkata,East,2024-07-06
+86,Kabir Iyer,customer86@example.com,Kochi,South,2023-02-11
+87,Ananya Iyer,customer87@example.com,Jaipur,North,2023-05-10
+88,Sanya Singh,customer88@example.com,pune,West,2023-06-21
+89,Sneha Bose,customer89@example.com,Mumbai,West,2023-04-21
+90,Sneha Singh,customer90@example.com,Gurugram,North,2023-09-06
+91,  Kavya Das ,customer91@example.com,Delhi,North,2023-12-22
+92,Ananya Khan,customer92@example.com,Delhi,North,2024-03-06
+93,Neha Reddy,customer93@example.com,Patna,East,2024-04-15
+94,Rahul Khan,customer94@example.com,Mumbai,West,2024-07-05
+95,Aditya Mehta,customer95@example.com,Pune,West,2023-09-09
+96,  Karan Kapoor ,customer96@example.com,Bengaluru,South,2024-08-06
+97,Priya Kapoor,customer97@example.com,Chandigarh,North,2024-05-14
+98,Rohan Gupta,,Mumbai,West,2024-07-23
+99,Amit Rao,customer99@example.com,  Chennai ,South,2023-09-04
+100,Kabir Joshi,customer100@example.com,Mumbai,West,2023-08-15
+101,Sanya Kapoor,customer101@example.com,Chennai,South,2024-06-27
+102,Sanya Iyer,customer102@example.com,Mumbai,West,2023-09-15
+103,Sanya Rao,customer103@example.com,Bhubaneswar,East,2023-07-09
+104,Ananya Iyer,customer104@example.com,Bhubaneswar,East,2024-06-21
+105,  Diya Mehta ,customer105@example.com,  Mumbai ,West,2023-01-15
+106,Pooja Singh,customer106@example.com,Mumbai,West,2023-05-10
+107,Isha Verma,customer107@example.com,Bengaluru,South,2024-05-05
+108,aditya verma,customer108@example.com,Gurugram,North,2023-03-08
+109,Ananya Khan,customer109@example.com,Mumbai,West,2023-03-29
+110,Rahul Joshi,customer110@example.com,Jaipur,North,2024-06-19
+111,Tanvi Singh,customer111@example.com,Mumbai,West,2024-08-05
+112,isha nair,customer112@example.com,  Jaipur ,North,2023-09-28
+113,Tanvi Rao,customer113@example.com,Delhi,North,2024-02-23
+114,Rahul Gupta,customer114@example.com,Kolkata,East,2023-10-17
+115,Riya Nair,customer115@example.com,Bhubaneswar,East,2023-07-22
+116,Isha Joshi,customer116@example.com,Patna,East,2023-05-26
+117,Nikhil Joshi,customer117@example.com,Mumbai,West,2024-03-25
+118,Aditya Verma,customer118@example.com,Chennai,South,2024-07-06
+119,Kabir Sharma,,Hyderabad,South,2023-09-14
+120,Isha Rao,,Mumbai,West,2024-08-13
+121,Neha Rao,customer121@example.com,Mumbai,West,2023-07-05
+122,Ananya Reddy,customer122@example.com,Ahmedabad,West,2023-12-08
+123,Riya Verma,customer123@example.com,Mumbai,West,2024-02-15
+124,Karan Sharma,customer124@example.com,Pune,West,2023-04-29
+125,Meera Rao,customer125@example.com,Ahmedabad,West,2023-02-25
+126,Sneha Malhotra,customer126@example.com,Jaipur,North,2023-10-01
+127,Sneha Sharma,customer127@example.com,DELHI,North,2023-09-03
+128,Ananya Patel,customer128@example.com,Patna,East,2023-04-27
+129,Pooja Rao,customer129@example.com,Chennai,South,2023-10-07
+130,Siddharth Patel,customer130@example.com,Ahmedabad,West,2023-07-15
+131,Siddharth Mehta,customer131@example.com,Bhubaneswar,East,2024-02-29
+132,Pooja Patel,customer132@example.com,Mumbai,West,2024-08-16
+133,Karan Malhotra,customer133@example.com,Pune,West,2024-07-19
+134,  Kabir Khan ,customer134@example.com,Kolkata,East,2023-09-02
+135,Kavya Patel,customer135@example.com,  Kolkata ,East,2024-01-26
+136,Rahul Singh,customer136@example.com,Chennai,South,2023-12-06
+137,  Amit Patel ,customer137@example.com,Kolkata,East,2023-05-28
+138,Karan Gupta,customer138@example.com,Mumbai,West,2023-12-13
+139,Arjun Rao,customer139@example.com,  Patna ,East,2024-06-30
+140,Sneha Nair,customer140@example.com,Gurugram,North,2023-08-29
+141,Nikhil Joshi,customer141@example.com,  Gurugram ,North,2023-04-13
+142,meera khan,customer142@example.com,Bhubaneswar,East,2023-02-27
+143,Aditya Bose,customer143@example.com,Hyderabad,South,2023-07-04
+144,Amit Mehta,customer144@example.com,Hyderabad,South,2023-05-27
+145,  Kavya Reddy ,customer145@example.com,Bhubaneswar,East,2024-04-21
+146,Neha Mehta,customer146@example.com,Hyderabad,South,2023-11-03
+147,Karan Das,customer147@example.com,Ahmedabad,West,2024-05-09
+148,Kavya Bose,customer148@example.com,Mumbai,West,2023-01-23
+149,Sanya Rao,customer149@example.com,Kochi,South,2023-02-20
+150,Meera Nair,customer150@example.com,Bhubaneswar,East,2023-08-24
+151,Amit Verma,customer151@example.com,Kochi,South,2023-05-21
+152,Aditya Joshi,customer152@example.com,Hyderabad,South,2024-01-09
+153,Meera Mehta,customer153@example.com,Jaipur,North,2023-05-16
+154,Sneha Kapoor,customer154@example.com,Patna,East,2024-05-08
+155,Kabir Bose,customer155@example.com,Gurugram,North,2023-05-25
+156,Aarav Mehta,customer156@example.com,Pune,West,2023-04-03
+157,AMIT DAS,customer157@example.com,Kochi,South,2023-09-26
+158,Tanvi Nair,customer158@example.com,Delhi,North,2024-07-28
+159,  Ananya Patel ,customer159@example.com,  Bengaluru ,South,2023-11-06
+160,Riya Patel,customer160@example.com,Bengaluru,South,2023-04-29
+161,Sanya Patel,customer161@example.com,Kolkata,East,2024-07-07
+162,Priya Verma,customer162@example.com,Patna,East,2024-05-16
+163,Ananya Das,customer163@example.com,Bengaluru,South,2023-08-30
+164,Rohan Singh,customer164@example.com,Pune,West,2023-03-04
+165,  Tanvi Sharma ,customer165@example.com,Gurugram,North,2023-08-06
+166,Riya Iyer,customer166@example.com,Chandigarh,North,2024-08-01
+167,Tanvi Sharma,customer167@example.com,Jaipur,North,2023-12-03
+168,Isha Singh,customer168@example.com,  Chandigarh ,North,2024-07-07
+169,  Kabir Kapoor ,customer169@example.com,Delhi,North,2024-01-02
+170,Sanya Gupta,customer170@example.com,Chandigarh,North,2024-03-07
+171,Kabir Verma,customer171@example.com,Chennai,South,2023-04-22
+172,  Amit Sharma ,customer172@example.com,Kochi,South,2024-06-17
+173,  Pooja Malhotra ,customer173@example.com,AHMEDABAD,West,2024-03-12
+174,Priya Kapoor,customer174@example.com,Hyderabad,South,2023-06-01
+175,Neha Singh,customer175@example.com,MUMBAI,West,2024-04-09
+176,Rohan Khan,customer176@example.com,Kochi,South,2024-07-18
+177,Sanya Singh,customer177@example.com,Pune,West,2024-04-09
+178,  Kavya Rao ,customer178@example.com,Mumbai,West,2024-01-19
+179,Sanya Das,customer179@example.com,Gurugram,North,2024-03-18
+180,Kavya Singh,customer180@example.com,Hyderabad,South,2024-07-29
+181,Sanya Verma,customer181@example.com,Bhubaneswar,East,2024-03-09
+182,Rohan Patel,customer182@example.com,Pune,West,2023-04-17
+183,Meera Singh,customer183@example.com,Gurugram,North,2023-12-25
+184,Tanvi Sharma,customer184@example.com,Bhubaneswar,East,2024-03-15
+185,Priya Joshi,,Kolkata,East,2023-10-01
+186,karan gupta,customer186@example.com,Chandigarh,North,2023-05-27
+187,Rohan Bose,customer187@example.com,Delhi,North,2023-04-04
+188,Varun Gupta,customer188@example.com,pune,West,2023-11-16
+189,Priya Malhotra,customer189@example.com,Bhubaneswar,East,2023-02-20
+190,Siddharth Singh,customer190@example.com,BENGALURU,South,2024-02-29
+191,Sneha Verma,customer191@example.com,Kochi,South,2024-05-13
+192,Rohan Patel,customer192@example.com,Delhi,North,2023-01-08
+193,NEHA REDDY,customer193@example.com,Gurugram,North,2023-01-08
+194,  Kavya Das ,customer194@example.com,Jaipur,North,2024-05-27
+195,Aditya Kapoor,,Delhi,North,2024-03-22
+196,Karan Sharma,customer196@example.com,kolkata,East,2024-03-03
+197,Meera Gupta,customer197@example.com,HYDERABAD,South,2024-04-16
+198,Karan Joshi,customer198@example.com,Ahmedabad,West,2024-02-15
+199,Amit Singh,customer199@example.com,bhubaneswar,East,2023-06-22
+200,Amit Patel,customer200@example.com,bhubaneswar,East,2023-12-24
+201,amit gupta,customer201@example.com,Jaipur,North,2023-06-27
+202,Varun Malhotra,customer202@example.com,Bengaluru,South,2024-04-20
+203,amit kapoor,customer203@example.com,  Kochi ,South,2023-11-27
+204,Varun Verma,customer204@example.com,  Bengaluru ,South,2023-11-07
+205,  Meera Joshi ,,Bengaluru,South,2024-04-07
+206,Siddharth Bose,customer206@example.com,Patna,East,2023-04-03
+207,Varun Iyer,customer207@example.com,Bhubaneswar,East,2023-02-12
+208,Arjun Gupta,customer208@example.com,chandigarh,North,2023-03-05
+209,Siddharth Reddy,customer209@example.com,Jaipur,North,2024-03-24
+210,Kavya Verma,customer210@example.com,Ahmedabad,West,2024-02-23
+211,Kavya Bose,customer211@example.com,Gurugram,North,2023-12-04
+212,Varun Patel,customer212@example.com,Kochi,South,2023-06-03
+213,Nikhil Gupta,customer213@example.com,Kochi,South,2024-02-06
+214,Kavya Gupta,customer214@example.com,Bhubaneswar,East,2023-12-03
+215,Isha Iyer,customer215@example.com,Pune,West,2023-01-19
+216,Diya Gupta,customer216@example.com,Jaipur,North,2023-08-20
+217,Siddharth Verma,customer217@example.com,Chennai,South,2024-07-06
+218,diya reddy,customer218@example.com,Hyderabad,South,2023-05-15
+219,Vivaan Khan,customer219@example.com,Hyderabad,South,2023-06-19
+220,Rahul Nair,customer220@example.com,Bengaluru,South,2023-10-19
+221,Rohan Das,customer221@example.com,Bhubaneswar,East,2024-04-25
+222,Karan Khan,customer222@example.com,Bengaluru,South,2024-04-17
+223,Vivaan Rao,customer223@example.com,Bhubaneswar,East,2023-05-22
+224,Sneha Gupta,customer224@example.com,Gurugram,North,2024-06-12
+225,Aditya Nair,customer225@example.com,Chennai,South,2023-05-31
+226,Siddharth Das,customer226@example.com,Delhi,North,2024-02-29
+227,Ananya Kapoor,,PUNE,West,2023-08-18
+228,Diya Rao,customer228@example.com,  Mumbai ,West,2024-04-28
+229,DIYA KHAN,customer229@example.com,Gurugram,North,2023-01-20
+230,  Neha Malhotra ,,Mumbai,West,2023-05-05
+231,Siddharth Nair,,Bengaluru,South,2024-07-02
+232,Neha Reddy,customer232@example.com,DELHI,North,2023-12-28
+233,Riya Sharma,customer233@example.com,Pune,West,2023-03-11
+234,Priya Sharma,customer234@example.com,  Kochi ,South,2024-02-01
+235,SANYA KAPOOR,customer235@example.com,Jaipur,North,2023-04-17
+236,Kavya Malhotra,customer236@example.com,Pune,West,2023-06-29
+237,Rahul Verma,customer237@example.com,  Chandigarh ,North,2023-05-19
+238,Sneha Bose,customer238@example.com,Jaipur,North,2023-02-12
+239,Rohan Joshi,customer239@example.com,Mumbai,West,2023-02-07
+240,Meera Khan,customer240@example.com,Patna,East,2023-12-06
+241,Pooja Rao,customer241@example.com,Ahmedabad,West,2023-12-14
+242,Aditya Khan,customer242@example.com,Mumbai,West,2023-03-26
+243,Aditya Kapoor,customer243@example.com,Chennai,South,2023-10-28
+244,Rahul Das,customer244@example.com,Hyderabad,South,2024-03-12
+245,Vivaan Gupta,customer245@example.com,Pune,West,2024-03-21
+246,  Diya Malhotra ,customer246@example.com,  Chennai ,South,2023-06-13
+247,Varun Verma,customer247@example.com,Bhubaneswar,East,2024-01-11
+248,Aditya Patel,customer248@example.com,Pune,West,2024-01-16
+249,Ananya Sharma,customer249@example.com,Kochi,South,2023-10-13
+250,Priya Malhotra,customer250@example.com,Ahmedabad,West,2024-07-29
+251,Diya Gupta,customer251@example.com,Kolkata,East,2024-05-17
+252,Arjun Das,customer252@example.com,Bengaluru,South,2023-03-31
+253,Nikhil Reddy,customer253@example.com,Mumbai,West,2023-11-04
+254,  Kabir Rao ,customer254@example.com,Gurugram,North,2023-07-25
+255,Riya Patel,customer255@example.com,PUNE,West,2024-04-23
+256,Sanya Rao,customer256@example.com,Mumbai,West,2024-02-12
+257,Arjun Gupta,customer257@example.com,Patna,East,2024-08-11
+258,Riya Reddy,customer258@example.com,PUNE,West,2023-05-12
+259,Siddharth Patel,customer259@example.com,chennai,South,2023-02-26
+260,Siddharth Joshi,customer260@example.com,Kolkata,East,2023-08-19
+261,Amit Joshi,customer261@example.com,KOCHI,South,2024-07-18
+262,varun patel,customer262@example.com,Kochi,South,2023-06-22
+263,Varun Verma,customer263@example.com,  Hyderabad ,South,2023-12-12
+264,Rohan Khan,customer264@example.com,  Delhi ,North,2024-08-13
+265,Sneha Rao,customer265@example.com,Kochi,South,2024-07-12
+266,nikhil verma,customer266@example.com,Ahmedabad,West,2023-11-01
+267,Diya Kapoor,customer267@example.com,Bengaluru,South,2023-07-28
+268,Diya Das,customer268@example.com,PATNA,East,2023-12-20
+269,rahul nair,customer269@example.com,  Jaipur ,North,2024-04-22
+270,Isha Kapoor,customer270@example.com,Ahmedabad,West,2024-03-04
+271,Siddharth Malhotra,customer271@example.com,Jaipur,North,2023-06-13
+272,Siddharth Malhotra,customer272@example.com,Delhi,North,2023-04-03
+273,Pooja Rao,customer273@example.com,  Pune ,West,2023-02-19
+274,Priya Das,customer274@example.com,Gurugram,North,2024-03-17
+275,Rohan Das,customer275@example.com,  Ahmedabad ,West,2023-02-22
+276,PRIYA SINGH,customer276@example.com,CHENNAI,South,2024-04-06
+277,meera patel,customer277@example.com,Pune,West,2023-12-14
+278,Diya Kapoor,,Chennai,South,2023-02-11
+279,tanvi kapoor,customer279@example.com,Chandigarh,North,2024-06-11
+280,Siddharth Rao,customer280@example.com,Kolkata,East,2023-11-03
+281,Kavya Singh,customer281@example.com,Patna,East,2023-01-18
+282,Priya Nair,customer282@example.com,Bhubaneswar,East,2023-01-28
+283,tanvi bose,customer283@example.com,Chandigarh,North,2024-06-20
+284,  Ananya Iyer ,customer284@example.com,Delhi,North,2024-08-09
+285,Neha Rao,customer285@example.com,Chandigarh,North,2024-02-27
+286,Riya Kapoor,customer286@example.com,Delhi,North,2023-05-22
+287,Rahul Kapoor,customer287@example.com,Ahmedabad,West,2023-11-18
+288,Rohan Nair,customer288@example.com,Patna,East,2023-09-28
+289,Nikhil Rao,customer289@example.com,Mumbai,West,2023-10-23
+290,Varun Bose,customer290@example.com,Bhubaneswar,East,2023-10-08
+291,Sneha Gupta,customer291@example.com,Pune,West,2023-05-30
+292,Riya Mehta,customer292@example.com,Mumbai,West,2024-05-05
+293,Varun Nair,customer293@example.com,Chandigarh,North,2023-04-22
+294,Vivaan Singh,customer294@example.com,Chennai,South,2023-08-20
+295,Riya Reddy,,Gurugram,North,2023-05-21
+296,Sneha Kapoor,customer296@example.com,  Bengaluru ,South,2024-05-03
+297,Kabir Verma,customer297@example.com,bhubaneswar,East,2023-04-02
+298,Vivaan Bose,customer298@example.com,patna,East,2023-06-30
+299,Aarav Joshi,customer299@example.com,KOLKATA,East,2023-10-24
+300,Amit Rao,customer300@example.com,PUNE,West,2023-10-19
+259,Siddharth Patel,customer259@example.com,chennai,South,2023-02-26
+240,Meera Khan,customer240@example.com,Patna,East,2023-12-06
+140,Sneha Nair,customer140@example.com,Gurugram,North,2023-08-29
+99,Amit Rao,customer99@example.com,  Chennai ,South,2023-09-04
+58,Priya Reddy,customer58@example.com,Pune,West,2023-01-29
+170,Sanya Gupta,customer170@example.com,Chandigarh,North,2024-03-07
+84,Neha Mehta,customer84@example.com,Pune,West,2024-01-24
+235,SANYA KAPOOR,customer235@example.com,Jaipur,North,2023-04-17

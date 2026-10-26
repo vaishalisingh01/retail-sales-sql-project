@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Wireless Mouse,Electronics,799
+2,Bluetooth Headphones,Electronics,2499
+3,USB-C Charger,Electronics,1199
+4,Smart Watch,Electronics,4999
+5,Laptop Stand,Electronics,1499
+6,Mechanical Keyboard,Electronics,3499
+7,Cotton T-Shirt,Clothing,499
+8,Denim Jeans,Clothing,1599
+9,Running Shoes,Clothing,2999
+10,Hoodie,Clothing,1299
+11,Formal Shirt,Clothing,999
+12,Coffee Mug,Home & Kitchen,299
+13,Non-stick Pan,Home & Kitchen,1099
+14,Water Bottle,Home & Kitchen,399
+15,Bedsheet Set,Home & Kitchen,1399
+16,Table Lamp,Home & Kitchen,899
+17,Notebook Pack,Stationery,249
+18,Gel Pens (10),Stationery,149
+19,Backpack,Stationery,1199
+20,Desk Organizer,Stationery,449

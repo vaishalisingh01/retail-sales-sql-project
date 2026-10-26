@@ -1,0 +1,226 @@
+order_id,customer_id,product_id,order_date,quantity,discount_pct,payment_method,order_status
+3001,295,10,2026-01-15,1,10,Credit Card,Delivered
+3002,247,14,2026-01-20,2,20,Cash on Delivery,Delivered
+3003,11,8,2026-01-12,3,20,Credit Card,Delivered
+3004,239,6,2026-01-14,2,15,Credit Card,Delivered
+3005,104,1,2026-01-11,1,0,Net Banking,Returned
+3006,29,19,2026-01-01,1,5,Debit Card,Delivered
+3007,160,3,2026-01-14,3,0,Credit Card,Delivered
+3008,167,16,2026-01-17,1,0,Debit Card,Delivered
+3009,128,10,2026-01-23,1,0,Cash on Delivery,Returned
+3010,32,20,2026-01-16,1,15,Cash on Delivery,Delivered
+3011,138,12,2026-01-31,3,10,Credit Card,Returned
+3012,295,10,2026-01-07,5,5,Net Banking,Delivered
+3013,303,11,2026-01-09,3,20,Credit Card,Delivered
+3014,114,17,2026-01-06,1,0,Cash on Delivery,Delivered
+3015,114,17,2026-01-08,1,0,UPI,Delivered
+3016,107,9,2026-01-08,1,0,Credit Card,Delivered
+3017,92,10,2026-01-14,1,0,Debit Card,Delivered
+3018,292,9,2026-01-30,1,10,Debit Card,Delivered
+3019,124,15,2026-01-23,1,0,Debit Card,Delivered
+3020,65,3,2026-01-11,1,0,Credit Card,Delivered
+3021,46,1,2026-01-04,1,0,Debit Card,Delivered
+3022,301,16,2026-01-18,1,0,UPI,Delivered
+3023,154,5,2026-01-05,4,0,Cash on Delivery,Delivered
+3024,81,3,2026-01-03,2,0,Debit Card,Delivered
+3025,19,11,2026-01-05,1,5,Net Banking,Delivered
+3026,177,3,2026-01-19,3,0,Debit Card,Delivered
+3027,131,10,2026-01-24,2,20,UPI,Returned
+3028,255,16,2026-01-23,1,20,Debit Card,Delivered
+3029,201,4,2026-01-16,4,5,Credit Card,Delivered
+3030,68,17,2026-01-31,2,0,Cash on Delivery,Delivered
+3031,211,14,2026-01-01,1,0,UPI,Cancelled
+3032,222,12,2026-01-22,4,0,Debit Card,Delivered
+3033,38,1,2026-01-01,1,0,UPI,Delivered
+3034,288,2,2026-01-05,1,15,Cash on Delivery,Cancelled
+3035,216,12,2026-01-26,2,10,Cash on Delivery,Delivered
+3036,111,3,2026-01-29,1,15,Cash on Delivery,Delivered
+3037,304,17,2026-01-30,1,0,UPI,Delivered
+3038,214,10,2026-01-03,3,15,UPI,Delivered
+3039,249,7,2026-01-24,2,20,Net Banking,Cancelled
+3040,305,18,2026-01-17,1,0,UPI,Delivered
+3041,198,13,2026-01-26,2,0,Net Banking,Cancelled
+3042,243,14,2026-01-04,5,15,Net Banking,Delivered
+3043,181,17,2026-01-03,3,5,Net Banking,Delivered
+3044,196,2,2026-01-12,2,0,Cash on Delivery,Cancelled
+3045,91,6,2026-01-18,1,10,UPI,Delivered
+3046,81,5,2026-01-16,2,20,UPI,Cancelled
+3047,99,10,2026-01-04,1,5,Credit Card,Delivered
+3048,265,10,2026-01-14,1,0,UPI,Cancelled
+3049,310,2,2026-01-08,3,5,Net Banking,Returned
+3050,131,19,2026-01-19,1,0,Debit Card,Returned
+3051,41,7,2026-01-18,1,0,Cash on Delivery,Delivered
+3052,223,19,2026-01-09,1,5,Net Banking,Cancelled
+3053,36,14,2026-01-24,1,20,Net Banking,Delivered
+3054,44,16,2026-01-25,4,5,Debit Card,Delivered
+3055,188,2,2026-01-14,1,20,Cash on Delivery,Delivered
+3056,46,8,2026-01-10,4,10,UPI,Delivered
+3057,9,19,2026-01-07,4,15,UPI,Delivered
+3058,178,17,2026-01-12,3,5,Debit Card,Delivered
+3059,247,16,2026-01-08,2,20,Credit Card,Delivered
+3060,254,7,2026-01-22,1,15,Net Banking,Delivered
+3061,213,19,2026-01-04,3,0,Debit Card,Delivered
+3062,7,16,2026-01-18,2,20,UPI,Delivered
+3063,192,2,2026-01-09,1,20,Debit Card,Delivered
+3064,176,1,2026-01-11,2,0,Net Banking,Delivered
+3065,301,2,2026-01-17,2,10,Credit Card,Returned
+3066,235,16,2026-01-28,1,0,Net Banking,Cancelled
+3067,50,5,2026-01-16,1,5,Credit Card,Delivered
+3068,113,10,2026-01-07,1,20,UPI,Delivered
+3069,115,19,2026-01-01,1,0,Credit Card,Returned
+3070,10,20,2026-01-10,4,5,Debit Card,Delivered
+3071,212,19,2026-01-15,2,0,Debit Card,Delivered
+3072,255,13,2026-01-25,1,15,Credit Card,Delivered
+3073,194,17,2026-01-04,2,0,Credit Card,Delivered
+3074,207,15,2026-01-05,3,0,UPI,Delivered
+3075,115,8,2026-01-05,1,0,UPI,Delivered
+3076,53,15,2026-01-13,1,0,Debit Card,Delivered
+3077,23,12,2026-01-22,2,20,Debit Card,Delivered
+3078,85,17,2026-01-30,3,20,Net Banking,Delivered
+3079,221,3,2026-01-11,1,0,Net Banking,Delivered
+3080,66,6,2026-01-28,1,5,Net Banking,Cancelled
+3081,18,9,2026-01-10,1,10,Net Banking,Delivered
+3082,168,7,2026-01-26,1,0,Cash on Delivery,Delivered
+3083,145,11,2026-01-20,3,0,Debit Card,Delivered
+3084,133,5,2026-01-01,1,15,Net Banking,Delivered
+3085,202,18,2026-01-09,2,0,UPI,Delivered
+3086,40,15,2026-01-28,1,0,Debit Card,Delivered
+3087,57,3,2026-01-08,3,10,UPI,Delivered
+3088,63,13,2026-01-13,2,0,UPI,Returned
+3089,210,8,2026-01-25,2,0,Cash on Delivery,Delivered
+3090,48,9,2026-01-01,1,20,Net Banking,Returned
+3091,298,4,2026-01-27,3,20,Net Banking,Delivered
+3092,194,11,2026-01-24,3,15,Net Banking,Delivered
+3093,210,10,2026-01-29,2,10,Net Banking,Delivered
+3094,113,3,2026-01-10,5,0,UPI,Delivered
+3095,265,7,2026-01-03,3,0,UPI,Cancelled
+3096,176,4,2026-01-21,1,0,Credit Card,Delivered
+3097,301,4,2026-01-11,1,15,UPI,Delivered
+3098,185,15,2026-01-10,1,5,UPI,Returned
+3099,198,9,2026-01-24,3,5,UPI,Delivered
+3100,109,17,2026-01-22,1,0,UPI,Delivered
+3101,182,9,2026-01-04,3,20,Cash on Delivery,Delivered
+3102,79,16,2026-01-11,1,5,Debit Card,Delivered
+3103,233,9,2026-01-20,3,15,Debit Card,Delivered
+3104,231,7,2026-01-08,3,0,Debit Card,Returned
+3105,269,19,2026-01-21,2,5,UPI,Returned
+3106,55,8,2026-01-31,1,15,Credit Card,Delivered
+3107,96,20,2026-01-24,1,20,Cash on Delivery,Delivered
+3108,9,1,2026-01-03,3,0,Credit Card,Delivered
+3109,34,15,2026-01-25,1,15,Net Banking,Delivered
+3110,204,16,2026-01-12,4,0,UPI,Delivered
+3111,309,1,2026-01-03,5,5,Debit Card,Delivered
+3112,116,4,2026-01-14,1,5,UPI,Delivered
+3113,144,10,2026-01-30,1,5,Debit Card,Cancelled
+3114,288,15,2026-01-13,2,5,Net Banking,Cancelled
+3115,265,9,2026-01-19,2,0,Cash on Delivery,Delivered
+3116,55,8,2026-01-29,1,0,UPI,Delivered
+3117,37,15,2026-01-26,1,5,Cash on Delivery,Delivered
+3118,159,16,2026-01-21,1,10,Credit Card,Delivered
+3119,53,2,2026-01-27,1,0,UPI,Delivered
+3120,217,19,2026-01-04,2,20,UPI,Delivered
+3121,48,20,2026-01-09,1,0,Debit Card,Delivered
+3122,304,12,2026-01-03,1,5,Cash on Delivery,Delivered
+3123,266,8,2026-01-08,1,0,Net Banking,Delivered
+3124,83,11,2026-01-23,1,0,Net Banking,Delivered
+3125,120,1,2026-01-16,3,0,Credit Card,Delivered
+3126,300,2,2026-01-29,1,10,Credit Card,Delivered
+3127,110,13,2026-01-21,5,15,Cash on Delivery,Delivered
+3128,234,20,2026-01-31,1,0,UPI,Delivered
+3129,219,19,2026-01-07,3,15,Credit Card,Delivered
+3130,78,16,2026-01-17,2,0,Net Banking,Delivered
+3131,169,17,2026-01-28,1,15,Credit Card,Returned
+3132,199,16,2026-01-05,2,10,Cash on Delivery,Delivered
+3133,124,3,2026-01-09,5,0,Net Banking,Delivered
+3134,247,4,2026-01-26,4,10,Cash on Delivery,Delivered
+3135,188,2,2026-01-30,1,0,Net Banking,Delivered
+3136,237,8,2026-01-16,3,10,Credit Card,Delivered
+3137,174,4,2026-01-29,1,0,Cash on Delivery,Returned
+3138,190,20,2026-01-18,1,20,Debit Card,Delivered
+3139,304,13,2026-01-10,1,10,Net Banking,Delivered
+3140,168,4,2026-01-01,4,0,Cash on Delivery,Delivered
+3141,122,8,2026-01-28,2,0,Credit Card,Delivered
+3142,203,4,2026-01-23,2,5,Net Banking,Delivered
+3143,29,11,2026-01-12,1,0,UPI,Returned
+3144,28,6,2026-01-30,1,0,UPI,Delivered
+3145,29,4,2026-01-26,2,0,Debit Card,Delivered
+3146,300,14,2026-01-03,1,5,Credit Card,Cancelled
+3147,264,9,2026-01-09,5,0,Credit Card,Delivered
+3148,285,8,2026-01-28,1,10,Credit Card,Delivered
+3149,193,10,2026-01-17,2,20,Net Banking,Returned
+3150,245,18,2026-01-02,3,0,Credit Card,Delivered
+3151,135,2,2026-01-03,1,10,UPI,Delivered
+3152,126,15,2026-01-22,4,15,Cash on Delivery,Delivered
+3153,71,14,2026-01-11,1,0,UPI,Cancelled
+3154,11,5,2026-01-18,4,5,Credit Card,Delivered
+3155,63,13,2026-01-17,3,5,Cash on Delivery,Delivered
+3156,80,8,2026-01-21,3,0,Cash on Delivery,Delivered
+3157,224,4,2026-01-25,2,10,Credit Card,Delivered
+3158,303,7,2026-01-17,1,0,Cash on Delivery,Delivered
+3159,125,9,2026-01-14,1,0,Credit Card,Returned
+3160,117,3,2026-01-22,2,15,Credit Card,Delivered
+3161,206,18,2026-01-05,1,20,Cash on Delivery,Delivered
+3162,124,13,2026-01-06,4,5,Net Banking,Delivered
+3163,85,20,2026-01-20,2,0,Debit Card,Delivered
+3164,132,20,2026-01-30,1,0,Debit Card,Cancelled
+3165,220,8,2026-01-09,3,20,Net Banking,Delivered
+3166,60,4,2026-01-17,4,0,Debit Card,Delivered
+3167,13,2,2026-01-08,1,10,Net Banking,Delivered
+3168,44,18,2026-01-11,1,20,Debit Card,Delivered
+3169,29,12,2026-01-23,2,20,Cash on Delivery,Delivered
+3170,27,16,2026-01-25,2,0,Debit Card,Returned
+3171,137,5,2026-01-04,1,5,Credit Card,Delivered
+3172,204,4,2026-01-06,1,5,UPI,Delivered
+3173,153,7,2026-01-05,1,0,Net Banking,Delivered
+3174,302,20,2026-01-06,1,10,Cash on Delivery,Delivered
+3175,293,8,2026-01-25,2,0,Net Banking,Delivered
+3176,178,19,2026-01-16,1,0,Net Banking,Delivered
+3177,44,15,2026-01-09,1,0,UPI,Delivered
+3178,234,7,2026-01-22,5,0,Credit Card,Cancelled
+3179,202,5,2026-01-14,5,15,Cash on Delivery,Delivered
+3180,285,4,2026-01-04,1,0,Credit Card,Delivered
+3181,279,1,2026-01-07,3,0,Debit Card,Delivered
+3182,261,8,2026-01-31,1,15,Credit Card,Returned
+3183,287,6,2026-01-31,2,0,Net Banking,Delivered
+3184,21,6,2026-01-08,3,5,Net Banking,Cancelled
+3185,226,3,2026-01-07,1,0,Cash on Delivery,Delivered
+3186,77,10,2026-01-25,2,0,UPI,Delivered
+3187,230,1,2026-01-05,1,20,UPI,Cancelled
+3188,130,5,2026-01-10,2,20,UPI,Delivered
+3189,221,6,2026-01-22,1,20,Credit Card,Delivered
+3190,168,3,2026-01-11,1,0,Debit Card,Delivered
+3191,187,1,2026-01-22,1,0,UPI,Cancelled
+3192,276,20,2026-01-04,1,20,Debit Card,Delivered
+3193,107,14,2026-01-05,4,15,UPI,Delivered
+3194,232,14,2026-01-07,1,0,Credit Card,Delivered
+3195,271,2,2026-01-11,1,0,UPI,Delivered
+3196,141,9,2026-01-22,2,0,Cash on Delivery,Delivered
+3197,223,7,2026-01-26,2,20,Net Banking,Delivered
+3198,58,18,2026-01-28,1,20,Cash on Delivery,Delivered
+3199,219,4,2026-01-08,1,10,Cash on Delivery,Cancelled
+3200,106,10,2026-01-16,1,20,UPI,Delivered
+1907,217,12,2025-08-25,1,20,Net Banking,Returned
+1419,65,5,2024-11-03,1,10,Cash on Delivery,Returned
+1286,81,5,2025-11-19,1,5,Credit Card,Returned
+329,159,20,2025-08-28,1,10,Net Banking,Returned
+93,82,14,2024-01-01,1,0,Debit Card,Returned
+1996,46,18,2024-06-15,2,20,UPI,Returned
+513,113,5,2024-10-14,1,5,Debit Card,Returned
+2221,153,8,2024-11-29,2,15,Cash on Delivery,Returned
+2004,268,11,2025-07-29,2,15,Net Banking,Returned
+1345,233,8,2025-04-27,2,0,Net Banking,Returned
+2972,218,12,2025-05-02,5,20,Credit Card,Returned
+2369,280,9,2024-05-13,5,10,Cash on Delivery,Returned
+21,90,17,2025-11-07,1,0,Net Banking,Returned
+149,178,19,2024-08-14,1,0,Credit Card,Returned
+2795,93,1,2024-08-15,5,15,Cash on Delivery,Returned
+1466,66,16,2025-10-11,3,10,Credit Card,Returned
+1479,255,19,2025-08-02,1,15,Credit Card,Returned
+1683,124,8,2024-12-14,2,0,Net Banking,Returned
+2822,15,20,2025-02-11,1,0,Net Banking,Returned
+134,126,6,2024-08-07,1,0,Net Banking,Returned
+3026,177,3,2026-01-19,3,0,Debit Card,Delivered
+3085,202,18,2026-01-09,2,0,UPI,Delivered
+3187,230,1,2026-01-05,1,20,UPI,Cancelled
+3168,44,18,2026-01-11,1,20,Debit Card,Delivered
+3025,19,11,2026-01-05,1,5,Net Banking,Delivered

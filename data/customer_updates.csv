@@ -1,0 +1,26 @@
+customer_id,customer_name,email,city,region,signup_date,updated_at
+248,Aditya Patel,customer248@example.com,Jaipur,North,2024-01-16,2026-01-01
+117,Nikhil Joshi,customer117@example.com,Bengaluru,South,2024-03-25,2026-01-01
+245,Vivaan Gupta,customer245@example.com,Patna,East,2024-03-21,2026-01-01
+213,Nikhil Gupta,customer213@example.com,Hyderabad,South,2024-02-06,2026-01-01
+66,Sanya Reddy,customer66@example.com,Mumbai,West,2024-06-07,2026-01-01
+148,Kavya Bose,customer148@example.com,Delhi,North,2023-01-23,2026-01-01
+86,Kabir Iyer,customer86@example.com,Hyderabad,South,2023-02-11,2026-01-01
+208,Arjun Gupta,customer208@example.com,Patna,East,2023-03-05,2026-01-01
+196,Karan Sharma,customer196@example.com,Gurugram,North,2024-03-03,2026-01-01
+71,Riya Nair,customer71@example.com,Bhubaneswar,East,2024-06-14,2026-01-01
+65,Varun Kapoor,customer65@example.com,Pune,West,2023-10-21,2026-01-01
+188,Varun Gupta,customer188@example.com,Kolkata,East,2023-11-16,2026-01-01
+134,Kabir Khan,customer134@example.com,Delhi,North,2023-09-02,2026-01-01
+79,Meera Joshi,,Gurugram,North,2024-05-03,2026-01-01
+17,Aarav Singh,customer17@example.com,Kolkata,East,2024-07-20,2026-01-01
+301,Diya Malhotra,customer301@example.com,Pune,West,2026-01-01,2026-01-01
+302,Ananya Singh,customer302@example.com,Jaipur,North,2026-01-01,2026-01-01
+303,Rahul Reddy,customer303@example.com,Bhubaneswar,East,2026-01-01,2026-01-01
+304,Isha Bose,customer304@example.com,Patna,East,2026-01-01,2026-01-01
+305,Aditya Mehta,customer305@example.com,Mumbai,West,2026-01-01,2026-01-01
+306,Arjun Khan,customer306@example.com,Bengaluru,South,2026-01-01,2026-01-01
+307,Aarav Sharma,customer307@example.com,Hyderabad,South,2026-01-01,2026-01-01
+308,Aditya Mehta,customer308@example.com,Kochi,South,2026-01-01,2026-01-01
+309,Tanvi Nair,customer309@example.com,Chandigarh,North,2026-01-01,2026-01-01
+310,Arjun Mehta,customer310@example.com,Jaipur,North,2026-01-01,2026-01-01
